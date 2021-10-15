@@ -1,2 +1,3 @@
 # Random-Jazz-Fluency-Flashcards
-Beginner Jazz musician don't know what to practice? Keep losing those flashcards (only applies to millenials)? 
+Generate random flashcards for arpeggios/scales to practice.
+3 levels of difficulty, all 12 keys included always.
